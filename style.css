@@ -3,6 +3,7 @@ body {
     min-height: 100vh;
     min-width: 100vh;
     display: flex;
+    flex-wrap: wrap;
     place-content: center center;
     background-color: hsl(212, 45%, 89%);
 }
